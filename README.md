@@ -1,5 +1,4 @@
 <img src="https://i.postimg.cc/N0KxT1DB/Logo-Ton.png" alt="Logo Ton" title="Logo Ton">
-# Ton
 Vem ser Ton! Peça já sua maquininha com as menores taxas do Brasil!
 
 # Taxas para as bandeiras Visa e Master
