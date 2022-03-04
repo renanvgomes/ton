@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/2yg1sZvF/Logo-Ton-transp.png" width="100" height="100" alt="Logo Ton" title="Logo Ton">
+<img src="https://i.postimg.cc/2yg1sZvF/Logo-Ton-transp.png" width="200" height="200" alt="Logo Ton" title="Logo Ton">
 Vem ser Ton! Peça já sua maquininha com as menores taxas do Brasil!
 
 # Taxas para as bandeiras Visa e Master
